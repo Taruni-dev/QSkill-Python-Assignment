@@ -1,0 +1,13 @@
+Task 2: House Price Prediction using Linear Regression
+
+In this task, a house price dataset was used to build a predictive model.
+Numerical features such as area, number of rooms, and bathrooms were selected.
+
+Missing values were handled using mean substitution.
+The dataset was split into training and testing sets.
+
+A Linear Regression model was trained and evaluated using the R2 score.
+The scatter plot between actual and predicted prices shows the model performance.
+
+Conclusion:
+The model can successfully predict house prices based on input features.

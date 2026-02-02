@@ -1,0 +1,11 @@
+Task 3: Matrix Operations Tool using NumPy
+
+This Python application allows users to perform matrix operations interactively.
+Users can input matrices and select operations such as addition, subtraction,
+multiplication, transpose, and determinant calculation.
+
+The NumPy library is used for efficient matrix computations.
+The program validates matrix dimensions before performing operations.
+
+Conclusion:
+The tool successfully demonstrates matrix manipulation using Python and NumPy.

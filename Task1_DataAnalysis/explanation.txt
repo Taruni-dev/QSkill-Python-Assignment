@@ -1,0 +1,14 @@
+Task 1: Data Analysis using Pandas and Matplotlib
+
+In this task, a CSV dataset was loaded using the Pandas library.
+Basic data exploration was performed using head(), info(), and describe().
+
+The average of a numerical column was calculated to understand data distribution.
+
+Visualizations such as bar chart, scatter plot, and heatmap were created using Matplotlib and Seaborn.
+These graphs help in understanding patterns, trends, and correlations in the dataset.
+
+Observations:
+- The dataset shows meaningful distribution in numerical values.
+- Heatmap indicates correlation between numeric features.
+- Visualization helps in quick decision making.
